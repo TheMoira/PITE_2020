@@ -1,0 +1,72 @@
+INFO:root:Fri Apr  3 15:23:20 2020
+INFO:root:Turbulence...
+
+INFO:root:2: Plane w is flying with roll angle: -3.979930399028576
+INFO:root:Correcting...
+2: Plane w is flying with roll angle: -0.6765881678348579
+INFO:root:Keep the course!
+
+INFO:root:None
+INFO:root:Fri Apr  3 15:23:22 2020
+INFO:root:Turbulence...
+
+INFO:root:3: Plane w is flying with roll angle: 21.177695384700193
+INFO:root:Correcting...
+4: Plane w is flying with roll angle: 2.1177695384700197
+INFO:root:Keep the course!
+
+INFO:root:None
+INFO:root:Fri Apr  3 15:23:24 2020
+INFO:root:Turbulence...
+
+INFO:root:5: Plane w is flying with roll angle: 72.17466880464607
+INFO:root:Correcting...
+5: Plane w is flying with roll angle: 12.269693696789831
+INFO:root:Keep the course!
+
+INFO:root:None
+INFO:root:Fri Apr  3 15:23:26 2020
+INFO:root:Turbulence...
+
+INFO:root:6: Plane w is flying with roll angle: -7.3312962217647994
+INFO:root:Correcting...
+7: Plane w is flying with roll angle: -1.0263814710470718
+INFO:root:Keep the course!
+
+INFO:root:None
+INFO:root:Fri Apr  3 15:23:28 2020
+INFO:root:Turbulence...
+
+INFO:root:8: Plane w is flying with roll angle: -128.8485609002118
+INFO:root:Correcting...
+8: Plane w is flying with roll angle: -30.92365461605083
+INFO:root:Keep the course!
+
+INFO:root:None
+INFO:root:Fri Apr  3 15:23:30 2020
+INFO:root:Turbulence...
+
+INFO:root:9: Plane w is flying with roll angle: 22.089786229823748
+INFO:root:Correcting...
+10: Plane w is flying with roll angle: 2.8716722098770875
+INFO:root:Error is now at 28 percent
+INFO:root:None
+INFO:root:None
+INFO:root:Fri Apr  3 15:23:35 2020
+INFO:root:Turbulence...
+
+INFO:root:11: Plane w is flying with roll angle: -154.01635230098583
+INFO:root:Correcting...
+11: Plane w is flying with roll angle: -35.42376102922674
+INFO:root:Keep the course!
+
+INFO:root:None
+INFO:root:Fri Apr  3 15:23:37 2020
+INFO:root:Turbulence...
+
+INFO:root:12: Plane w is flying with roll angle: -13.494548987616382
+INFO:root:Correcting...
+13: Plane w is flying with roll angle: -0.6747274493808191
+INFO:root:Keep the course!
+
+INFO:root:None
