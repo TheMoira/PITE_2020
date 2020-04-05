@@ -124,4 +124,3 @@ if __name__ == "__main__":
         logging.info("Oops")
         logging.info(f"Seems like {names} crashed on an unknown island...")
         logging.info("What's gonna happen next?")
-
